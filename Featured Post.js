@@ -1,0 +1,1 @@
+<script src="https://cdn.rawgit.com/Ethical-Hackers-Club/java/master/Featured%20Post1.js" type="text/javascript"></script>","write","<div style="font-size:12px;float:left;"><a href="http://www.ethicalhackersclub.in/" target="blank"></a></div>"
